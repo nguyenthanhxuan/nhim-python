@@ -23,15 +23,22 @@ Welcome to your Python learning adventure! This workspace is designed to help yo
 - Functions (organizing code)
 
 ### Advanced (Lessons 7-8)
-- Lists and data
-- Creating games and projects
+- Lists and working with collections
+- Dictionaries and key-value pairs
+
+### Expert Projects
+- Task management system
+- Text adventure game
+- Data analysis exercises
 
 ## 🎮 Fun Features
 
+- **8 Progressive Lessons** - From Hello World to advanced data structures
 - **Interactive examples** - Run code and see what happens!
 - **Turtle graphics** - Draw pictures and patterns with code
-- **Simple games** - Number guessing, rock-paper-scissors, and more
-- **Step-by-step projects** - Build something cool!
+- **Multiple games** - Number guessing, rock-paper-scissors, text adventures
+- **Real projects** - Task manager, data analysis, art gallery
+- **Step-by-step exercises** - Guided practice with solutions
 
 ## 🛠️ Requirements
 
